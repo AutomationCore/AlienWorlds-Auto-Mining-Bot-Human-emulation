@@ -1,5 +1,9 @@
 # AutomationCore/AlienWorlds-Auto-Mining-Bot-Human emulation
  Bot automatically mines TLM. The bot has been updated to the latest version of the game. No captcha required. Fully emulates the behavior of a real person, which protects against blocking.
+ 
+![Screenshot_9](https://user-images.githubusercontent.com/85314999/120708308-40f34c80-c470-11eb-9ae3-1c0aa365e9a9.png)
+![Screenshot_11](https://user-images.githubusercontent.com/85314999/120708328-46e92d80-c470-11eb-943e-48e2f76d85e4.png)
+
 Download: Code => download zip
 
 And so let's proceed with the installation.
