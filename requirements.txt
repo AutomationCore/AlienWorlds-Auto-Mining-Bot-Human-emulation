@@ -1,0 +1,6 @@
+selenium
+python-anticaptcha
+requests
+selenium-wire
+pytz
+python-dateutil
